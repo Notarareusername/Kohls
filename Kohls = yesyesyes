@@ -309,7 +309,7 @@ local function ABABTD_fake_script() -- Song3.LocalScript
 
 	function Click(mouse)
 	
-		game:GetService'Players':Chat(("pants me 000000000000000000445095775")) 
+		game:GetService'Players':Chat(("music 000000000000000000445095775")) 
 	end
 	
 	
@@ -321,7 +321,7 @@ local function PUPF_fake_script() -- Song2.LocalScript
 
 	function Click(mouse)
 	
-		game:GetService'Players':Chat(("gear me 000000000000000000153676740")) 
+		game:GetService'Players':Chat(("music 000000000000000000153676740")) 
 	
 	end
 	
